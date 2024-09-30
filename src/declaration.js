@@ -1,3 +1,5 @@
+let firstName = 'Jane'
+let age = 35
 //
 //
 //
